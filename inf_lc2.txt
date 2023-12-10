@@ -1,2 +1,3 @@
+REM update program
 set "version=test_1"
 set "url_up="
