@@ -1,2 +1,2 @@
-set "version=test2"
-set "url_up=https://cdn.discordapp.com/attachments/528202153068593187/1183309179826483200/asd2423.7z"
+set "version=test3"
+set "url_up=https://cdn.discordapp.com/attachments/528202153068593187/1183310055794278470/daw2w4e21q4erdaws.7z"
