@@ -1,6 +1,8 @@
 rem update mods
-set "version=2"
-set "url_z=2"
+set "version=3"
+set "url_z=4"
 set "parts_n=1"
-set "url_up_1=https://cdn.discordapp.com/attachments/528202153068593187/1183382083981291540/Default.7z.001"
-set "url_up_2=https://cdn.discordapp.com/attachments/528202153068593187/1183382084312637481/Default.7z.002"
+set "url_up_1=https://cdn.discordapp.com/attachments/528202153068593187/1183416642743578684/Default.7z.001"
+set "url_up_2=https://cdn.discordapp.com/attachments/528202153068593187/1183416641695006720/Default.7z.002"
+set "url_up_3=https://cdn.discordapp.com/attachments/528202153068593187/1183416642043129858/Default.7z.003"
+set "url_up_4=https://cdn.discordapp.com/attachments/528202153068593187/1183416642395455528/Default.7z.004"
