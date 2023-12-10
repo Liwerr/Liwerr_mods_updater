@@ -1,4 +1,4 @@
 set "version=1"
 set "url_up=https://cdn.discordapp.com/attachments/528202153068593187/1183382083981291540/Default.7z.001"
 
-powershell (New-Object System.Net.WebClient).DownloadFile('https://cdn.discordapp.com/attachments/528202153068593187/1183382084312637481/Default.7z.002', '%~dp0LH\Temp\mods.7z.002')
+powershell (New-Object System.Net.WebClient).DownloadFile('https://cdn.discordapp.com/attachments/528202153068593187/1183382084312637481/Default.7z.002', '..\Temp\mods.7z.002')
