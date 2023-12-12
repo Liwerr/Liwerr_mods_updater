@@ -1,5 +1,5 @@
 rem update mods
-set "version=4"
+set "version=5"
 set "url_z=5"
 set "parts_n=1"
 set "url_up_1=https://cdn.discordapp.com/attachments/528202153068593187/1184164907973890089/Default.7z.001"
