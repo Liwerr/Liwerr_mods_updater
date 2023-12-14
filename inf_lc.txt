@@ -2,7 +2,7 @@ rem update mods
 set "version=9"
 set "url_z=4"
 set "parts_n=1"
-rem set "url_up_1="
+rem set "url_up_="
 set "url_up_1=https://cdn.discordapp.com/attachments/528202153068593187/1184851761937252372/Default.7z.001"
 set "url_up_2=https://cdn.discordapp.com/attachments/528202153068593187/1184851762293772298/Default.7z.002"
 set "url_up_3=https://cdn.discordapp.com/attachments/528202153068593187/1184851762612535386/Default.7z.003"
