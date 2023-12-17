@@ -1,8 +1,8 @@
 rem update mods
-set "version=9.7"
+set "version=9.8"
 set "url_z=2"
 set "parts_n=1"
 rem set "url_up_="
-set "url_up_1=https://cdn.discordapp.com/attachments/528202153068593187/1185935078048661624/Default.7z.001"
-set "url_up_2=https://cdn.discordapp.com/attachments/528202153068593187/1185935077528576071/Default.7z.002"
+set "url_up_1=https://cdn.discordapp.com/attachments/528202153068593187/1185938621421854770/Default.7z.001"
+set "url_up_2=https://cdn.discordapp.com/attachments/528202153068593187/1185938620968878110/Default.7z.002"
 
