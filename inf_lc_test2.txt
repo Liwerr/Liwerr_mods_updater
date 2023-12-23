@@ -1,7 +1,0 @@
-rem update mods test
-set "version=9.8.3test2"
-set "url_z=1"
-set "parts_n=1"
-rem set "url_up_="
-set "url_up_1=https://liwerrhack.my.to/pliki/Default.7z"
-
