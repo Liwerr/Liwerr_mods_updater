@@ -1,4 +1,3 @@
 REM update program
-echo add support to 2.5GB mods archive
 set "version_up=stable_4"
-set "url_up2=https://cdn.discordapp.com/attachments/528202153068593187/1187802303126843473/LH_mods.7z"
+set "url_up2=https://liwerrhack.my.to/pliki/LH_mods2.7z"
