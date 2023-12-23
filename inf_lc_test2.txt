@@ -1,11 +1,7 @@
 rem update mods test
-set "version=9.8.3test"
-set "url_z=6"
+set "version=9.8.3test2"
+set "url_z=1"
 set "parts_n=1"
 rem set "url_up_="
-set "url_up_1=https://github.com/Liwerr/Liwerr_mods_updater/raw/main/Default.7z.001"
-set "url_up_2=https://github.com/Liwerr/Liwerr_mods_updater/raw/main/Default.7z.002"
-set "url_up_3=https://github.com/Liwerr/Liwerr_mods_updater/raw/main/Default.7z.003"
-set "url_up_4=https://github.com/Liwerr/Liwerr_mods_updater/raw/main/Default.7z.004"
-set "url_up_5=https://github.com/Liwerr/Liwerr_mods_updater/raw/main/Default.7z.005"
-set "url_up_6=https://github.com/Liwerr/Liwerr_mods_updater/raw/main/Default.7z.006"
+set "url_up_1=http://liwerrhack.my.to/pliki/Default.7z"
+
