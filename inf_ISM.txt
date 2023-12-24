@@ -1,2 +1,2 @@
-set "version=stable_1"
-set "url_up=https://liwerrhack.my.to/pliki/1q243EW4R2Q33qewraedfweqaaed2.7z"
+set "version=stable_2"
+set "url_up=https://liwerrhack.my.to/pliki/ISM.7z"
